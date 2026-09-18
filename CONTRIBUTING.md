@@ -8,7 +8,7 @@ To promote an open, welcoming, inclusive and harassment-free experience, all eng
 
 ## Licensing ##
 
-Content in the FarmData2 project is released under several different licenses as described in the [LICENSE file](LICENSE.md). In addition, that file describes the rights and responsibilities of contributors with regard to the their contributed content. The licensing structure of FarmData2 is designed to ensure that FarmData2 remains free and open source while protecting both the project and it community of contributors. Please review it carefully before contributing content to FarmData2.
+Content in the FarmData2 project is released under several different licenses as described in the [LICENSE file](LICENSE.md). In addition, that file describes the rights and responsibilities of contributors with regard to the their contributed content. The licensing structure off FarmData2 is designed to ensure that FarmData2 remains free and open source while protecting both the project and it community of contributors. Please review it carefully before contributing content to FarmData2.
 
 ## Connecting ##
 
@@ -70,7 +70,7 @@ The above is not an exhaustive list of ways to participate in FarmData2. For som
 
 Interacting with FarmData2 requires a basic familiarity with git and GitHub. FarmData2 development uses a fairly standard web technology stack including HTML, CSS, Bootstrap, JavaScript, and Vue.js. The front-end accesses FarmData2 data through the [FarmOS API](https://farmos.org/development/api/) using the [Axios](https://github.com/axios/axios) library. End-to-end and component testing is done using the [Cypress framework](https://www.cypress.io/).
 
-If you are unfamiliar with one or more of these technologies the [ONBOARDING](ONBOARDING.md) document provides additional information about each, as well as resources and activities for learning about them.
+If you are unfamiliar with one or more of these technologies, the [ONBOARDING](ONBOARDING.md) document provides additional information about each as well as resources and activities for learning about them.
 
 ## Workflow ##
 
